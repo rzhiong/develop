@@ -1,6 +1,2 @@
 test
-fk the world
-git hub23
-echo 12
-fk the world
-give me five
+
