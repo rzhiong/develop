@@ -1,6 +1,3 @@
 test
 fk the wor
-git hub23123
-echo 12
-beauty
-omg
+
